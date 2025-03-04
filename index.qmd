@@ -1,11 +1,6 @@
 ---
-title: "NicoleMGreco.github.io"
+title: "Nicole M. Greco"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+#About Me
+I'm so happy you're here! I'm Nicole, a glacial geologist and science communicator living in sunny Santa Barbara, California. I currently serve as a Community Engagement & Outreach Coordinator for the NSF Arctic Data Center and the National Center for Ecological Analysis & Synthesis Learning Hub. I'm an avid hiker, painter, puzzle-doer, and sea glass collector. Poke around my website to learn more!
