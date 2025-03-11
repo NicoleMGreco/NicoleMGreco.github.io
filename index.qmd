@@ -1,5 +1,5 @@
 ---
-title: "Nicole M. Greco, PhD"
+title: "Nicole Greco, PhD"
 image: /headshot.jpeg
 toc: false
 about: 
@@ -15,6 +15,6 @@ about:
       href: https://github.com/nicolemgreco
     - text: Email
       href: mailto:greco@nceas.ucsb.edu
-     
+      
 ---   
 I'm so happy you're here! I'm Nicole, a glacial geologist and science communicator living in sunny Santa Barbara, California. I currently serve as a Community Engagement & Outreach Coordinator for the NSF Arctic Data Center and the National Center for Ecological Analysis & Synthesis Learning Hub. I'm an avid hiker, painter, puzzle-doer, and sea glass collector. Poke around my website to learn more!
