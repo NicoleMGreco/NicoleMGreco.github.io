@@ -1,0 +1,45 @@
+---
+title: "Research & Publications"
+---
+
+Jones, Matthew, Clark, Jeanette, **Greco**, Nicole, Klope, Maggie, Regetz, Jim (2025). Reproducible Practices for Arctic Research Using R. Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2057CV1S](https://learning.nceas.ucsb.edu/2025-02-arctic/).
+
+Lam, Adriane, Goss, Gryphen, **Greco**, Nicole (2025). Expedition 403: Sailing the Last Expedition of the JOIDES Resolution, Eos.
+
+**Greco**, Nicole, Garcia, Angie (2025). New Datasets Exploring Small Mammal Impact on Arctic Vegetation with Dr. Laura Gough. <https://arcticdata.io/all/news/2025/03/new-datasets-exploring-small-mammal-impact-on-arctic-vegetation-with-dr-laura-gough/>.
+
+**Greco**, Nicole (2024). How can we CARE more in environmental research? <https://www.nceas.ucsb.edu/news/how-can-we-care-more-environmental-research>.
+
+**Greco**, Nicole (2024). CoreR 2024 Director’s Scholarship Recipients. <https://www.nceas.ucsb.edu/news/corer-2024-directors-scholarship-recipients>.
+
+**Greco**, Nicole (2024). Tracking Arctic Tides: A New Database of Tide Elevation Constituents from 1800 through the Present. <https://arcticdata.io/all/news/2024/12/arctica_dataset_highlight/>.
+
+**Greco**, Nicole (2024). New Merged Datasets on Arctic Climate (MOSAiC Project) with Dr. David Clemens-Sewall. <https://arcticdata.io/all/news/2024/09/new-merged-datasets-on-arctic-climate-with-dr-david-clemens-sewall/>.
+
+**Greco**, Nicole (2024). New Dataset Discussing Aerosols in the Arctic with PhD Candidate Allison Welch. <https://arcticdata.io/all/news/2024/09/new-dataset-discussing-aerosols-in-the-arctic-with-phd-candidate-allison-welch/>
+
+**Greco**, Nicole (2024). Unlocking Arctic Secrets: [A Look Into Scientific Ocean Drilling. https://arcticdata.io/all/news/2024/07/unlocking-arctic-secrets-a-look-into-scientific-ocean-drilling/](https://arcticdata.io/all/news/2024/07/unlocking-arctic-secrets-a-look-into-scientific-ocean-drilling/)
+
+**Greco**, Nicole (2024). New Dataset: Using Satellite Observations to Explore Arctic Land Change and Permafrost Thaw. <https://arcticdata.io/all/news/2024/07/5418/>.
+
+**Greco**, Nicole (2024). New Dataset Reveals Insights into Arctic Plant Biomass with Dr. Logan Berner, Arctic Data Center Blog. <https://arcticdata.io/all/news/2024/06/new-dataset-reveals-insights-into-arctic-plant-biomass-with-dr-logan-berner/>.
+
+Li, Wenwen, Liljedahl, Anna, Jones, Matthew, Hsu, Chia-Yu, Kosobokova, Alyona, Regetz, Jim, Witharana, Chandi, Yang, Yili, Galewsky, Ben, Mathew, Minu, Puthanveetil, Sandeep, **Greco**, Nicole, McHenry, Kenton, Galaz García, Carmen, and Holman Billmeier, Kate, (2024). AI for Arctic Research. Arctic Data Center. [doi:10.18739/A2222R77V](https://doi.org/10.18739/A2222R77V).
+
+**Greco**, Nicole (2024).Quantitative Grain Size Analysis of Water Column and Sub-Seafloor Sediments in Ice-Proximal Environments as Influenced by Glacial Meltwater and Sediment Discharge, Doctoral Dissertation.
+
+**Greco**, Nicole, Jaeger, John, MacKie, Emma, (2023). Quantitative Modeling of Polar-to-Temperate Marine IceProximal Fine Sediment Grain Size as Influenced by Meltwater and Sediment Discharge, AGU 2023.
+
+**Greco,** Nicole, Jaeger, John, MacKie, Emma, (2022). A Bayesian Modeling Approach to Quantify the Role of Suspended Sediment-Rich Meltwater in Antarctic Glacimarine Sediment Formation, West Antarctic Ice Sheet Workshop 2022.
+
+**Greco,** Nicole, Jaeger, John, Penkrot, Michelle, Forwick, Matthias, (2021). What Can Grain Size Distributions of Muddy Glacimarine Strata Reveal About Proximal Tidewater Ice Dynamics? Tales From IODP Site U1419, Gulf of Alaska, AGU 2021.
+
+**Greco,** Nicole and Jaeger, John, (2021). Deciphering the Role of Meltwater in Muddy Antarctic Sediments, West Antarctic Ice Sheet Workshop 2021.
+
+**Greco,** Nicole, and Jaeger, John, (2020). Modeling Mud: Flocs as Global Meltwater Indicators in Ice-Proximal Glacimarine Sediments, AGU 2020.
+
+**Greco,** Nicole, and St. John, Kristen, (2018). Sedimentological analyses of the STEMSEAS site 1 core (Tanner Basin, California Borderlands) showing changes in sediment transport and paleoenvironmental conditions from the Younger Dryas through the Holocene, SE GSA, Charleston, SC.
+
+Monito, Lindsey, Chiocca, Cara, Everett, Andrew, **Greco,** Nicole, Mellerson, Brianna, Nebel, Angela, Wright, Patricia and St. John, Kristen, (2018). A multi-proxy analysis of a red clay core from the North Pacific Abyssal Plain to reconstruct depositional processes and paleo-winds, SE GSA, Charleston, SC.
+
+Nebel, Angela, Wright, Patricia, Monito, Lindsey R., Mellerson, Brianna, **Greco**, Nicole, Everett, Andrew, Chiocca, Cara and St. John, Kristen, (2018). A deglacial meltwater record from site MD02-2560, Kane Spur Region, Gulf of Mexico, SE GSA, Charleston, SC. 

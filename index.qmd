@@ -9,6 +9,8 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/nicole-greco-293670280/
+    - text: Bluesky Social
+      href: https://bsky.app/profile/greco-glacial.bsky.social
     - text: GitHub
       href: https://github.com/nicolemgreco
     - text: Email
