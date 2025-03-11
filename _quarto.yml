@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme:
-      light: sketchy
+      light: minty
       dark: solar
     css: styles.css
     toc: true
