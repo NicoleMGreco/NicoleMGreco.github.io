@@ -1,5 +1,5 @@
 ---
-title: "Nicole M. Greco"
+title: "Nicole M. Greco, PhD"
 image: /headshot.jpeg
 toc: false
 about: 
