@@ -7,14 +7,24 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/nicole-greco-293670280/
-    - text: Bluesky Social
+      target: _blank
+    - icon: bluesky
+      text: Bluesky Social
       href: https://bsky.app/profile/greco-glacial.bsky.social
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/nicolemgreco
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:greco@nceas.ucsb.edu
       
 ---   
-I'm so happy you're here! I'm Nicole, a glacial geologist and science communicator living in sunny Santa Barbara, California. I currently serve as a Community Engagement & Outreach Coordinator for the NSF Arctic Data Center and the National Center for Ecological Analysis & Synthesis Learning Hub. I'm an avid hiker, painter, puzzle-doer, and sea glass collector. Poke around my website to learn more!
+::: {#landing-icons}
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/nicole-greco-293670280/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/nicolemgreco){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/greco-glacial.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:greco@nceas.ucsb.edu)
+:::
+:::
+
+I'm so happy you're here! I'm Nicole Greco (greck-oh), a glacial geologist and science communicator living in sunny Santa Barbara, California. I currently serve as a Community Engagement & Outreach Coordinator for the NSF Arctic Data Center and the National Center for Ecological Analysis & Synthesis Learning Hub. I'm an avid hiker, painter, puzzle-doer, and sea glass collector. Poke around my website to learn more!
