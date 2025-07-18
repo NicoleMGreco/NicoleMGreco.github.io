@@ -2,6 +2,8 @@
 title: "Research & Publications"
 ---
 
+Lam, Adriane, Goss, Gryphen, **Greco**, Nicole (2025). Expedition 403: Sailing the Last Expedition of the JOIDES Resolution. Eos. <https://eos.org/opinions/expedition-403-sailing-the-last-expedition-of-the-joides-resolution>.
+
 Jones, Matthew, Clark, Jeanette, **Greco**, Nicole, Klope, Maggie, Regetz, Jim (2025). Reproducible Practices for Arctic Research Using R. Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2057CV1S](https://learning.nceas.ucsb.edu/2025-02-arctic/).
 
 Jones, Matthew, Garcia, Angie, **Greco**, Nicole, Kadi, Justin, Regetz, Jim (2025), Fundamentals in Data Management for Qualitative and Quantitative Arctic Research. Arctic Data Center & NCEAS Learning Hub. [doi:10.18739/A2TM7232M](https://learning.nceas.ucsb.edu/2025-01-arctic/).
