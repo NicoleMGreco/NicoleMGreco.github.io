@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+EDUCATION 
+    PhD in Geology at the University of Florida- Completed Spring 2024 
+    Bachelor of Science in Geology from James Madison University- Completes Spring 2019 
 
-```{r}
-1 + 1
-```
+EMPLOYMENT 
+•	Community Engagement and Outreach Coordinator for the NSF Arctic Data Center and Learning Hub at the National Center for Ecological Analysis and Synthesis, May 2024-present
+o	Responsible for developing promotional and educational materials, maintaining our websites, and organizing presentations, meetings, webinars, and data science trainings for the Arctic Data Center and the NCEAS Learning Hub. 
+•	Teaching assistantship for Sedimentary Geology, Fundamentals of Marine Science, and Intro to Earth Sciences at the University of Florida, August 2019 - May 2023.     
+•	Organizing Fellow for Graduate Assistants United at the University of Florida, National Education Association 
+Representing all graduate assistants at the University of Florida by bargaining with university administration over tuition, health insurance, stipends, sick leave, family care, and more. 2021-2022.
+
