@@ -1,6 +1,6 @@
 ---
 title: "Nicole Greco, PhD"
-image: /headshot.jpeg
+image: /docs/headshot1.jpeg
 toc: false
 about: 
   template: jolla
